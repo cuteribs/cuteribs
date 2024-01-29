@@ -4,4 +4,9 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/cuteribs/cuteribs/output/github-snake-dark.svg" />
 </picture>
 
-![Cuteribs' GitHub stats](https://github-readme-stats.vercel.app/api?username=cuteribs&theme=dark)
+<a href="https://github.com/cuteribs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cuteribs&show_icons=true" />
+</a>
+<a href="https://github.com/cuteribs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuteribs&layout=compact" />
+</a>

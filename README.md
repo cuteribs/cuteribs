@@ -10,3 +10,10 @@
 <a href="https://github.com/cuteribs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuteribs&layout=compact" />
 </a>
+
+---
+
+## Tech Stack
+[![](https://skillicons.dev/icons?i=js,ts,html,css,vue,react,bash,cs,go,java,jquery,md,nodejs,pug)](#)
+[![](https://skillicons.dev/icons?i=azure,bitbucket,cloudflare,debian,ubuntu,docker,dotnet,flutter,git,github)](#)
+[![](https://skillicons.dev/icons?i=bash,bootstrap,docker,dotnet,visualstudio,vscode,git,githubactions,npm,postman)](#)
